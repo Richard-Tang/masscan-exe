@@ -1,1 +1,3 @@
-# MasscanEXE
+# masscan-exe
+
+masscan.exe
